@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/MongoDB-Atlas_or_Local-4EA94B?style=for-the-badge&logo=mongodb" alt="MongoDB" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License" />
   <img src="https://img.shields.io/github/stars/M5Dev-System/Echo-System?style=for-the-badge" alt="Stars" />
+  <img src="https://img.shields.io/github/commit-activity/t/M5Dev-System/Echo-System?style=for-the-badge" alt="Commits" />
+  <img src="https://img.shields.io/github/v/release/M5Dev-System/Echo-System?style=for-the-badge" alt="Version" />
 
   <h3>A complete Discord bot for moderation, security, automation, and community management.</h3>
 
